@@ -1,0 +1,8 @@
+instruções
+
+criar banco chamado "assistencia" e importar arquivo .sql
+
+login para acesso: teste
+senha para acesso: teste
+
+caso de algum erro na tela principal, dentro do pacote view, adicionar biblioteca itext pdf, em adicionar JAR/pasta. 
